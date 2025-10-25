@@ -117,9 +117,10 @@ Expand analysis to include competitor datasets (Mercedes, Audi, etc.).
 
 👨‍💻 Author
 
-Vishnuvardhan Reddy Neelapu
-📧 [vishnuvardhanreddyneelapu@example.com
+Vishnuvardhan Reddy
+📧 [nvishnuvardhanrv@gmail.com
 ]
+Note: Dataset used from Kaggle
 💼 Data Analyst | Machine Learning Enthusiast | Big Data Developer
 
 🏷️ Tags
